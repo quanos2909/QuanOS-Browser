@@ -10,3 +10,6 @@ Installation-How-To
 Follow the instructions to install
 
 -Product key needed for Setup:M5225XX-1601N-20NM9-11XO
+
+# Please note
+The pre-release version may unstable experience on your device,please install QuanOS (TM) Subsystem For iOS for better experience
