@@ -1,4 +1,4 @@
-# QuanOS-Browser
+# QuanOS Browser
 The lightweight browser uses Apple Framework
 
 # How To Install
