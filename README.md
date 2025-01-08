@@ -8,6 +8,6 @@ The lightweight browser uses Apple Framework
 
 - Run the setup file inside the extracted folder
 
-Follow the instructions to install
+Important steps:
 
-- Product key needed for Setup: M5225XX-1601N-20NM9-11XO
+- When asked for product key, type this: M5225XX-1601N-20NM9-11XO
