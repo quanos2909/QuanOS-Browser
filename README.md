@@ -1,5 +1,7 @@
 # QuanOS Browser
-The lightweight browser uses Apple Framework
+## Latest release: v14.2
+
+The lightweight browser uses Apple Shortcuts Framework
 
 # How To Install
 - Please download the zip file from releases and then extract it
@@ -8,6 +10,6 @@ The lightweight browser uses Apple Framework
 
 - Run the setup file inside the extracted folder
 
-Important steps:
+## Important steps:
 
-- When asked for product key, type this: M5225XX-1601N-20NM9-11XO
+- ~~When asked for product key, type this: M5225XX-1601N-20NM9-11XO~~ No longer needed since v14.2
