@@ -1,5 +1,6 @@
 # QuanOS Browser
-## Latest release: v14.2
+**Latest release:** v14.2
+**Latest preview release**: v15.0 Alpha
 
 The lightweight browser uses Apple Shortcuts Framework
 
