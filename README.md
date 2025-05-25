@@ -1,6 +1,10 @@
 # QuanOS Browser
 **Latest release:** v14.2
 
+# Alright, listen up please.
+
+**The last version of QuanOS Browser is QuanOS Browser15, we're moving away to ForeverWebOS, a better QuanOS Browser.**
+
 ![Add a heading](https://github.com/user-attachments/assets/b65086db-f051-443b-8a16-429128f5400e)
 
 **Latest preview release**: v15.0 Alpha
