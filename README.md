@@ -1,5 +1,6 @@
 # QuanOS Browser
-**Latest release:** v15.0
+### Latest release: v15.0
+### Latest preview release: v15.1 (powered by QuanOS Browser OSS)
 
 # Alright, listen up please.
 
