@@ -1,4 +1,6 @@
-QuanOS Browser OSS is released, you may want to visit the QuanOS-Browser-OSS repository.
+# QuanOS Browser OSS Notes
+### QuanOS Browser OSS is released, you may want to visit the QuanOS-Browser-OSS repository.
+
 The consumer version of QuanOS Browser will end its life soon, but the OSS version continues the development
 
 NOTES:
