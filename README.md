@@ -8,8 +8,6 @@
 
 ![It's back!](https://github.com/user-attachments/assets/b65086db-f051-443b-8a16-429128f5400e)
 
-**Latest preview release**: Not yet.
-
 The lightweight browser uses Apple Shortcuts Framework
 
 # How To Install
