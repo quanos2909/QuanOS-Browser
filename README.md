@@ -1,6 +1,6 @@
 # QuanOS Browser
 ### Latest release: v15.0
-### Latest preview release: v15.1 (powered by QuanOS Browser OSS)
+### Latest preview release: v25.0 (powered by QuanOS Browser16 OSS)
 
 
 ![It's back!](https://github.com/user-attachments/assets/b65086db-f051-443b-8a16-429128f5400e)
